@@ -24,3 +24,13 @@ nbdist/
 
 ### macOS ###
 *.DS_Store
+
+_site/
+*.sw[po]
+*.~vsd
+\#*\#
+*~
+Gemfile.lock
+.vscode/
+.jekyll-metadata
+
