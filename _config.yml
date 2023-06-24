@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: ""
-url: https://duanlinfei.github.io/
+url: https://duanlinfei.github.io
 date_format: "ordinal"
 title: Code
 timezone: Asia/Shanghai
