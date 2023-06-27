@@ -5,7 +5,7 @@ categories: [未分类]
 ---
 
 ## 舍入方法
-```mysql
+``` bash
 # X:值 D:保留位数
 # 四舍五入
 ROUND(X,D)
