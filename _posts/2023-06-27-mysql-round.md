@@ -27,9 +27,11 @@ SELECT CAST(100.3465 AS DECIMAL(10,2)); # 100.35
 
 # 四舍五入，取上限(整数)
 ceil(val)
+SELECT ceil(99.6); # 100
 
 # 四舍五入，取下限(整数)
 floor(val)
+SELECT floor(99.6); # 99
 ```
 
 ## CONVERT, CAST 类型
